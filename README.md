@@ -6,4 +6,4 @@
 * [Dice](https://github.com/G-Prometheus/Dice)
 
 ## Section 2: Maximilian Schwarzmüller
-# Flutter-App Clone
+# Flutter-Development-AppClone
