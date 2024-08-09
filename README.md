@@ -1,9 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-###
 
-<h2 align="left">Languages and Tools</h2>
 
 
 
@@ -20,7 +18,9 @@
 ## Section 2: Maximilian Schwarzmüller
 # Flutter-Development-AppClone
 ###
+###
 
+<h2 align="left">Languages and Tools</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
