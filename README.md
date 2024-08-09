@@ -20,7 +20,7 @@
 ###
 ###
 
-<h2 align="left">Languages and Tools</h2>
+<h3 align="left">🛠 Language and tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
