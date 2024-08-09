@@ -3,6 +3,6 @@
 
 * [Xylophone Stub Project](https://github.com/G-Prometheus/xylophone)
 * [Multiple Quizz Project](https://github.com/G-Prometheus/MultipleQuizz)
+* [Dice](https://github.com/G-Prometheus/Dice)
 
-
-## Section 2: Setting Up for Flutter Development
+## Section 2: Maximilian Schwarzmüller
