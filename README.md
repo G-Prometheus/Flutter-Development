@@ -12,6 +12,7 @@
 ## Section 1: Course-Angela
 
 * [Xylophone Stub Project](https://github.com/G-Prometheus/xylophone)
+* [Quizzler](https://github.com/G-Prometheus/Quizzler)
 * [Multiple Quizz Project](https://github.com/G-Prometheus/MultipleQuizz)
 * [Dice](https://github.com/G-Prometheus/Dice)
 
