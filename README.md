@@ -15,7 +15,7 @@
 * [Quizzler](https://github.com/G-Prometheus/Quizzler)
 * [Multiple Quizz Project](https://github.com/G-Prometheus/MultipleQuizz)
 * [Dice](https://github.com/G-Prometheus/Dice)
-
+* [BMI](https://github.com/G-Prometheus/BMI-Flutter)
 ## Section 2: Maximilian Schwarzmüller
 # Flutter-Development-AppClone
 ###
